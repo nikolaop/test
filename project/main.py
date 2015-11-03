@@ -1,3 +1,3 @@
-a=input('give me a your name: ')
-print ("Hi, %s!!" %a)
+a=raw_input('give me a your name: ')
+print ("Hi, %a" %a)
 
