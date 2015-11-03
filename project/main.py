@@ -1,3 +1,3 @@
-a=input('give me a number')
-print ('hello world',a)
+a=input('give me a your name: ')
+print ('Hi %s'%a)
 
