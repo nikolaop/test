@@ -1,3 +1,3 @@
-d=input('give me a number')
-print ('hello world,'$d)
+a=input('give me a number')
+print ('hello world')
 
